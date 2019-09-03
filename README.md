@@ -3,7 +3,7 @@ This repo contains the survey instruments, analysis documents, and data from the
 
 Below are some details about the survey and the methdology:
 
-- The survey was ielded on the Internet between December 6 and December 31, 2018
+- The survey was fielded on the Internet between December 6 and December 31, 2018
 - The survey was fielded in both English and Spanish versions
 - Respondents were solicited from
 	- community.rstudio.com
